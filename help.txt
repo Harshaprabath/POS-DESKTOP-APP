@@ -1,0 +1,7 @@
+pip install flask pywebview pymongo dnspython pyinstaller
+
+setup genreter: pyinstaller --noconsole --onefile app.py
+
+
+
+
